@@ -1,0 +1,33 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.search-box input {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.item-card {
+    background: white;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.item-card h4 {
+    margin: 0;
+    color: #007bff;
+}
+
+.item-card p {
+    margin: 5px 0;
+}
